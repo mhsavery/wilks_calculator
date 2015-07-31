@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.panel{
+	margin: 100px auto auto auto;
+	width: 500px;
+	border: 1px solid black;
+}
+
+.title{
+	width: 400px;
+	margin-left: 60px;
+	text-align: center;
+}
